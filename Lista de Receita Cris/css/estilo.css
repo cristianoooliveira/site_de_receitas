@@ -1,0 +1,196 @@
+body{
+    background-image: url(/img/fundo3.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    
+}
+
+p{
+    font-size: 25px;
+    font-family: Arial;
+    color:brown;
+}
+
+hr{
+    border-width: 4px;
+    border-color: rgb(240, 157, 62);
+    border-style: solid;
+}
+.esqtexto{
+    
+    float: right;  
+    width: 500px;
+    margin: 35px 35px 35px;
+    font-size: 20px;
+    font-family: Georgia;
+    color: rgba(255, 253, 158, 0.918); 
+    background-color: brown; 
+    border-color: rgba(255, 253, 158, 0.918);
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.esqtexto:hover{
+    color: brown;
+    background-color: rgba(255, 253, 158, 0.918);
+    border-color: brown
+    ;
+}
+
+
+.esqtitulo{
+    float: right;  
+    width: 500px;
+    margin: 5px 55px 1px;
+    padding-inline-start:45%;
+    font-size: 2.4em;
+    font-family: Arial; 
+    font-style: italic  ;
+    color: brown;    
+ }
+
+.esqtitulo2{    
+    float: right;  
+    width: 340px;
+    margin: 5px 55px 1px;
+    padding-inline-start:40%;
+    margin-bottom: 3px;
+    font-size: 2em ;
+    font-family: 'Franklin Gothic Medium';
+    color: brown;
+    font-style: italic;
+ }
+ 
+.texto{
+    width: 400px;
+    font-size: 25px;
+    text-justify:distribute-all-lines;
+    font-family: Georgia;
+    background-color: brown;
+    color: rgba(255, 253, 158, 0.918);
+    text-transform: capitalize ;
+    text-decoration:    double;
+    border-color: rgba(255, 253, 158, 0.918);
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.texto:hover{
+    color: brown;
+    background-color: rgba(255, 253, 158, 0.918);
+    border-color: brown;    
+}
+
+.p1{
+    font-size: 1.7em;
+    color: brown;
+    font-family: Arial;
+    font-style: italic;
+    
+}
+
+.p2{
+    font-size: 20px;
+    font-family: Georgia;
+    color: rgba(255, 253, 158, 0.918);; 
+}
+
+h3{
+    font-size: 2.4em ;
+    color: brown;
+    
+}
+
+
+
+h1{
+    font-size: 125px;
+    text-align: center;
+    background-color: brown;
+    color: rgba(255, 253, 158, 0.918);
+    
+}
+
+h1:hover{
+    color: brown;
+    background-color: rgba(255, 253, 158, 0.918);
+}
+
+.p3{
+    font-family: Georgia;
+    font-size: 3em;
+    color: brown;
+    background-color: rgba(255, 253, 158, 0.918);
+    text-align: center;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+}
+
+a{
+    color: brown;
+    font-family: Arial;
+}
+
+img{
+    
+    width: 200px;
+    opacity: 0.5;
+    border-color: brown;
+    border-width: 4px;
+    border-style: solid;
+
+}
+
+img:hover{
+    opacity: 1;
+}
+
+.img2{
+    width: 500px;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    border-collapse: collapse;
+    font-family: georgia;
+    color: brown;
+}
+thead{
+    font-size: 1.2em;
+}
+
+tbody tr:nth-child(odd) {
+    color: rgba(255, 253, 158, 0.918);
+    background-color: brown;
+}
+
+td{
+    padding: 16px;
+}
+
+th, td {
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+}
+
+.receita{
+    float: left;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: brown;
+    text-align: center;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    border-collapse: separate;
+    
+}
